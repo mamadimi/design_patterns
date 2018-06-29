@@ -1,0 +1,1 @@
+Implementations of java design patters according to "Head First Design Patterns"
